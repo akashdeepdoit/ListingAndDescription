@@ -73,7 +73,7 @@ const Listing = () => {
 
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Container>
         <Sidebar onFilter={filterByCategory} onSort={sortProducts} />
         <Main>

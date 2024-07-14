@@ -24,7 +24,7 @@ const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px;
+  padding: 10px 20px;
   background-color: #333;
   color: #fff;
 `;
